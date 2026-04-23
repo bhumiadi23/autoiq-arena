@@ -9,16 +9,12 @@
 - **Rich Car Database**: Detailed grid views showcasing technical specifications like horsepower, torque, and top speeds.
 - **Dark Mode & Glassmorphism Aesthetics**: Designed for user engagement with vibrant neon accents and premium look-and-feel.
 
-## 📸 Screenshots
+## 📸 Application Demo
 
-### The Dashboard
-![AutoIQ Dashboard](./screenshots/dashboard.png)
+Below is an actual recorded demonstration of the AutoIQ Arena application:
+*(Loading may take a moment)*
 
-### Performance Simulator
-![Performance Simulator](./screenshots/performance.png)
-
-### Car Database Grid
-![Car Database](./screenshots/database.png)
+![AutoIQ Application Demo](./screenshots/demo.webp)
 
 ## 🚀 Getting Started
 
